@@ -1,3 +1,6 @@
 archive
 archive.zip
 .kilo
+**/__pycache__/
+*.pyc
+*.pyo
