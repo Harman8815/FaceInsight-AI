@@ -1,5 +1,12 @@
-archive
 archive.zip
+archive/*.zip
+Facial character identfier/archive/img_align_celeba/img_align_celeba/*
+**/archive/img_align_celeba/img_align_celeba/*.jpg
+**/archive/img_align_celeba/img_align_celeba/*.jpeg
+**/archive/img_align_celeba/img_align_celeba/*.png
+**/archive/img_align_celeba/img_align_celeba/*.gif
+**/archive/img_align_celeba/img_align_celeba/*.bmp
+**/archive/img_align_celeba/img_align_celeba/*.tiff
 .kilo
 **/__pycache__/
 *.pyc
