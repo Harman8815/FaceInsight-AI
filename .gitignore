@@ -11,3 +11,4 @@ Facial character identfier/archive/img_align_celeba/img_align_celeba/*
 **/__pycache__/
 *.pyc
 *.pyo
+agent.md
